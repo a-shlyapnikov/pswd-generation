@@ -1,3 +1,8 @@
+/**
+ * 
+ * @param {*} length of the password
+ * @returns random password
+ */
 function generatePassword(length) {
     const charset = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*";
     let password = "";
