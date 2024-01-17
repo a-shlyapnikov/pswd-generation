@@ -1,6 +1,6 @@
 {
   "name": "pswd-generation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple function for generation passwords",
   "keywords": ["password", "generation"],
   "main": "index.js",

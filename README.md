@@ -6,9 +6,7 @@ Simple lib for generating random passwords
 ## Usage
    ```js
    const generatePassword = require('pswd-generation');
-
    const pswd = generatePassword(4);
    console.log(pswd);// outputs random password of length 4
-   
    ```
     
